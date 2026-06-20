@@ -79,7 +79,4 @@ Example triggers -
 
 9. Start Hacking ( Authenticated )
 
-> > You should know how to hack or abuse whatever you see while doing authenticated testing.
-
-
-Begin active vulnerability testing and exploitation on the authenticated attack surface
+> You should know how to hack or abuse whatever you see while doing authenticated testing.
